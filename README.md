@@ -1,2 +1,3 @@
 # 1st
-My 1st Repository
+This is my 1st Git Repository
+Author :- Ranjitha L
